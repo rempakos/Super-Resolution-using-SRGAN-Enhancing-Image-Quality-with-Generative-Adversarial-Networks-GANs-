@@ -13,3 +13,10 @@ This repository is currently comprised of but a few pages of my thesis. Code is 
 
 
 ![Lenna](https://github.com/rempakos/Super-Resolution-using-SRGAN-Enhancing-Image-Quality-with-Generative-Adversarial-Networks-GANs-/assets/44623491/2920c306-31a7-4009-bea0-f5ed1b6754ab)
+![image](https://github.com/rempakos/Super-Resolution-using-SRGAN-Enhancing-Image-Quality-with-Generative-Adversarial-Networks-GANs-/assets/44623491/bb5660ba-ab2b-4033-a055-a3f1cf76db6e)
+![image](https://github.com/rempakos/Super-Resolution-using-SRGAN-Enhancing-Image-Quality-with-Generative-Adversarial-Networks-GANs-/assets/44623491/a60e2453-bdcc-4636-bb40-174237177ca3)
+![image](https://github.com/rempakos/Super-Resolution-using-SRGAN-Enhancing-Image-Quality-with-Generative-Adversarial-Networks-GANs-/assets/44623491/1c44d161-4786-400d-aa83-6bfc0f2d38b2)
+![image](https://github.com/rempakos/Super-Resolution-using-SRGAN-Enhancing-Image-Quality-with-Generative-Adversarial-Networks-GANs-/assets/44623491/a80a6a5d-89dc-44cc-9498-008c9a391aeb)
+
+
+
